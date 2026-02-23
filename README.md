@@ -21,7 +21,7 @@ When asked to optimize a campaign for "Occasional" customers, the agent:
 
 3) Calculated the specific "delta" (2 more orders) needed to move the segment up.
 
-4) Generated high-conversion subject lines like: "Order 2x this month — unlock Loyalist perks + 25% off".
+4) Generated high-conversion subject lines like: "Order 2x this month unlock Loyalist perks + 25% off".
 
 ## Tech Stack
 1) Language: Python (Pandas)
