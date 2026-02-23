@@ -1,4 +1,4 @@
-### 🤖 Marketing AI Agent: RFM Segmentation via MCP 📊
+### Marketing AI Agent: RFM Segmentation via MCP 📊
 ## Project Overview
 This project bridges the gap between Machine Learning and Creative Strategy. I developed a custom Model Context Protocol (MCP) server in Python that allows an AI Agent to query live customer segmentation data directly from a local environment.
 
