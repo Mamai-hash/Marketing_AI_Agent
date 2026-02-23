@@ -5,29 +5,29 @@ This project bridges the gap between Machine Learning and Creative Strategy. I d
 By giving the AI access to real metrics (Recency and Frequency), I eliminated "segmentation hallucination" and ensured that every marketing campaign drafted is mathematically grounded in actual customer behavior.
 
 ## Key Features
-Data-Driven Logic: Uses a Python-based segmentation model (VIPs, Loyalists, Occasional) to drive outreach strategy.
+1) Data-Driven Logic: Uses a Python-based segmentation model (VIPs, Loyalists, Occasional) to drive outreach strategy.
 
-FastMCP Infrastructure: Built a dedicated server that exposes a get_cluster_insights tool to the AI.
+2) FastMCP Infrastructure: Built a dedicated server that exposes a get_cluster_insights tool to the AI.
 
-Agentic Workflow: The agent autonomously identifies the need for data, executes the Python tool, and interprets the results.
+3) Agentic Workflow: The agent autonomously identifies the need for data, executes the Python tool, and interprets the results.
 
-Efficiency Gain: Achieved a 30%+ reduction in campaign drafting time by automating the data-verification step.
+4) Efficiency Gain: Achieved a 30%+ reduction in campaign drafting time by automating the data-verification step.
 
 When asked to optimize a campaign for "Occasional" customers, the agent:
 
-Queried the MCP server.
+1) Queried the MCP server.
 
-Identified that "Loyalists" average 40 orders.
+2) Identified that "Loyalists" average 40 orders.
 
-Calculated the specific "delta" (2 more orders) needed to move the segment up.
+3) Calculated the specific "delta" (2 more orders) needed to move the segment up.
 
-Generated high-conversion subject lines like: "Order 2x this month — unlock Loyalist perks + 25% off".
+4) Generated high-conversion subject lines like: "Order 2x this month — unlock Loyalist perks + 25% off".
 
 ## Tech Stack
-Language: Python (Pandas)
+1) Language: Python (Pandas)
 
-Framework: FastMCP
+2) Framework: FastMCP
 
-Environment: VS Code & GitHub Copilot
+3) Environment: VS Code & GitHub Copilot
 
-Future Roadmap: Azure Cloud Deployment for global accessibility.
+## Future Roadmap: Azure Cloud Deployment for global accessibility.
